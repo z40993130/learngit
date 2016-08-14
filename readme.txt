@@ -4,4 +4,8 @@ he li shi dou B
 CCCCCCC
 DDDDDDDD
 creating a new branch is quick and simple  EEE
+<<<<<<< HEAD
+=======
+GGG
+>>>>>>> dev
 
